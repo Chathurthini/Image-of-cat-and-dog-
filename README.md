@@ -1,2 +1,2 @@
 # Image-of-cat-and-dog-
-Implementing a SVM to classify the images
+Implementing a CNN  to classify the images
